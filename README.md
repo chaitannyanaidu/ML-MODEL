@@ -39,6 +39,19 @@ Exploratory Data Analysis (EDA): Visualizations of key pollutants, trends, and s
 Machine Learning Models : Implementations of predictive models to forecast pollution levels.
 Visualizations: Graphical representations of data including line charts, bar charts, and heatmaps to help identify trends and patterns.
 
+## Dataset
+
+The dataset provided (`AirPollution.csv`) contains the following columns (or similar):
+
+Date: The date when the pollution data was recorded.
+PM2.5: Fine particulate matter concentration.
+PM10: Coarse particulate matter concentration.
+CO: Carbon monoxide levels.
+NOx: Nitrogen oxides levels.
+SO2: Sulfur dioxide levels.
+O3: Ozone levels.
+Location: Geographical information.
+
 ## results
 RMSE : 28.167864
 
