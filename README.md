@@ -23,6 +23,20 @@ The dataset includes the following columns:
 ## Results
 The logistic regression model provides an accuracy of 92.66% on the test dataset. This indicates that the model is fairly accurate in predicting whether a user will click on an ad based on the provided features.
 
+2. Air Pollution Analysis
+   
+The notebook demonstrates data preprocessing, analysis, and visualization techniques, potentially using machine learning models to predict pollution levels or uncover trends.
+
+## Project Overview
+
+Air pollution is a critical environmental issue affecting public health and the climate. This project aims to analyze air pollution data, identifying key pollutants, trends over time, and potentially predicting pollution levels using machine learning techniques.
+
+## Key Features:
+Data Cleaning: Preprocessing of raw air pollution data, handling missing values, and correcting data formats.
+Exploratory Data Analysis (EDA): Visualizations of key pollutants, trends, and seasonal variations.
+Machine Learning Models : Implementations of predictive models to forecast pollution levels.
+Visualizations: Graphical representations of data including line charts, bar charts, and heatmaps to help identify trends and patterns.
+
 
 
 
