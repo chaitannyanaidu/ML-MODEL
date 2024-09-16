@@ -39,6 +39,8 @@ Exploratory Data Analysis (EDA): Visualizations of key pollutants, trends, and s
 Machine Learning Models : Implementations of predictive models to forecast pollution levels.
 Visualizations: Graphical representations of data including line charts, bar charts, and heatmaps to help identify trends and patterns.
 
-
+## results
+RMSE : 28.167864
+Mean of Test Data : 96.041435
 
 
