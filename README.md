@@ -12,13 +12,18 @@ This project utilizes a dataset containing information about users and their beh
 - Gender
 
 ## Dataset
+
 The dataset includes the following columns:
-- Daily Time Spent on Site: Time spent by the user on the site in minutes.
-- Age: Age of the user.
-- Area Income: Average income of the geographical area of the user.
-- Daily Internet Usage: Time spent by the user on the internet in minutes.
-- Male: Gender of the user (1 if male, 0 if female).
-- Clicked on Ad: Target variable (1 if clicked, 0 if not).
+
+| Column                | Description                                                         |
+|-----------------------|---------------------------------------------------------------------|
+| Daily Time Spent      | Time spent by the user on the site in minutes.                      |
+| Age                   | Age of the user.                                                    |
+| Area Income           | Average income of the geographical area of the user.                |
+| Daily Internet Usage  | Time spent by the user on the internet in minutes.                  |
+| Male                  | Gender of the user (1 if male, 0 if female).                        |
+| Clicked on Ad         | Target variable (1 if clicked, 0 if not).                           |
+
 
 ## Results
 The logistic regression model provides an accuracy of 92.66% on the test dataset. This indicates that the model is fairly accurate in predicting whether a user will click on an ad based on the provided features.
