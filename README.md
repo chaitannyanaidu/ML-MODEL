@@ -40,9 +40,7 @@ Machine Learning Models : Implementations of predictive models to forecast pollu
 Visualizations: Graphical representations of data including line charts, bar charts, and heatmaps to help identify trends and patterns.
 
 ## Dataset
-
-The dataset provided (`AirPollution.csv`) contains the following columns (or similar):
-
+The dataset contains the following columns:
 -Date: The date when the pollution data was recorded.
 -PM2.5: Fine particulate matter concentration.
 -PM10: Coarse particulate matter concentration.
