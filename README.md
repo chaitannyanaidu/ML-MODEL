@@ -1,5 +1,5 @@
 Ad Click Prediction Using Logistic Regression
-# Ad Click Prediction Using Logistic Regression
+# 1.Ad Click Prediction Using Logistic Regression
 
 This project is focused on predicting whether a user will click on an advertisement based on various user attributes such as age, income, daily internet usage, and more. The prediction model is built using logistic regression, a popular method for binary classification tasks.
 
@@ -23,7 +23,9 @@ The dataset includes the following columns:
 ## Results
 The logistic regression model provides an accuracy of 92.66% on the test dataset. This indicates that the model is fairly accurate in predicting whether a user will click on an ad based on the provided features.
 
-2. Air Pollution Analysis
+
+
+# 2.Air Pollution Analysis
    
 The notebook demonstrates data preprocessing, analysis, and visualization techniques, potentially using machine learning models to predict pollution levels or uncover trends.
 
